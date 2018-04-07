@@ -6,7 +6,7 @@ use Exception;
 
 class CityCurrencies extends Base  {
 
-    /**
+    /***
      * RU API function to call
      *
      * @var string
